@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Amasha Hirushani!
 
-I am a passionate Software Engineering undergraduate at ICBT, specializing in Data Science and Quality Assurance (QA). With a strong foundation in software engineering principles, I have hands-on experience in web and mobile development, as well as software testing methodologies. My goal is to contribute to high-quality software solutions by leveraging my technical expertise and problem-solving skills.
+I am a passionate Software Engineering undergraduate at International College of Business and Technology, specializing in Data Science and Quality Assurance (QA). With a strong foundation in software engineering principles, I have hands-on experience in web and mobile development, as well as software testing methodologies. My goal is to contribute to high-quality software solutions by leveraging my technical expertise and problem-solving skills.
 
 ### 🔹 Technical Expertise:
 - **Programming & Scripting:** Java, JavaScript, PHP  
