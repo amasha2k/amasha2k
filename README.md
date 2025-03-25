@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there 👋, I'm Amasha Hirushani!
 
-<!--
-**amasha2k/amasha2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Software Engineering undergraduate at ICBT, specializing in Data Science and Quality Assurance (QA). With a strong foundation in software engineering principles, I have hands-on experience in web and mobile development, as well as software testing methodologies. My goal is to contribute to high-quality software solutions by leveraging my technical expertise and problem-solving skills.
 
-Here are some ideas to get you started:
+### 🔹 Technical Expertise:
+- **Programming & Scripting:** Java, JavaScript, PHP  
+- **Software Testing & QA:**  
+  - Test Automation (Selenium WebDriver, Cucumber)  
+  - API Testing (Postman)  
+  - Agile Software Testing & Test Planning  
+  - Defect Management & Behavior-Driven Development (BDD)  
+  - Performance & Security Testing  
+- **Development & Testing Tools:** IntelliJ IDEA, JBeta  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Core Competencies:
+- Attention to Detail & Analytical Thinking  
+- Problem-Solving & Critical Analysis  
+- Agile Development & Continuous Improvement  
+- Strong Communication & Collaboration  
+
+### 📬 Let's Connect:
+- 🔗 [LinkedIn](https://www.linkedin.com/in/amasha-hirushani-2791bb280)  
+- 📧 amashahiru1234@gmail.com  
+
+🚀 *Driven by a passion for technology and a commitment to excellence in software quality!*  
+
