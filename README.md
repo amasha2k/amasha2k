@@ -22,5 +22,5 @@ I am a passionate Software Engineering undergraduate at International College of
 - 🔗 [LinkedIn](https://www.linkedin.com/in/amasha-hirushani-2791bb280)  
 - 📧 amashahiru1234@gmail.com  
 
-🚀 *Driven by a passion for technology and a commitment to excellence in software quality!*  
+
 
